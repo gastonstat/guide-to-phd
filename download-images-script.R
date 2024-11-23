@@ -1,6 +1,6 @@
 # Title: Download PhD image files
 # Description: Script that allows you to download the jpg image files
-# of The Illustrated Guide to a Ph.D. (by Matt Might)
+#    of The Illustrated Guide to a Ph.D. (by Matt Might)
 # Date: Fall 2024
 # Author: Gaston Sanchez
 
@@ -16,6 +16,6 @@ phd_jpgs = paste0("images/PhDKnowledge.", numbers, ".jpg")
 # download jpg's to images/
 for (i in seq_along(phd_jpgs)) {
   phd_img_url = paste0(phd_url, phd_jpgs[i])
-  phd_dest = paste0("phd_", numbers[i], ".jpg")
+  phd_dest = paste0("images/phd_", numbers[i], ".jpg")
   download.file(phd_img_url, destfile = phd_dest)
 }
