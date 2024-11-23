@@ -9,6 +9,6 @@ This is also a small project to kick the tires on <a href="https://closeread.dev
 
 Special thanks to <a href="https://github.com/andrewpbray" target="_blank">Andrew Bray</a> (and co-developers) for introducing me to this amazing tool.
 
-The scrollyngtelling story is available at:
+The scrollytelling story is available at:
 
 <a href="https://www.gastonsanchez.com/guide-to-phd" target="_blank">gastonsanchez.com/guide-to-phd</a>
