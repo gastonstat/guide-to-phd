@@ -1,0 +1,115 @@
+---
+title: "The Illustrated Guide to a Ph.D."
+subtitle: 'By <a href="http://matt.might.net/" target="_blank">Matt Might</a>'
+format:
+  closeread-html:
+    cr-style:
+      section-background-color: white
+      narrative-background-color-sidebar: "#000000"
+      narrative-text-color-sidebar: white
+      narrative-font-family: 'Georgia, "Times New Roman", Times, serif'
+      narrative-font-size: 1.8rem
+      narrative-sidebar-width: minmax(420px, 1fr)
+embed-resources: true
+---
+
+:::{.cr-section}
+
+@cr-phd1
+| Imagine a circle that contains all of human knowledge.
+
+@cr-phd2
+| By the time you finish elementary school, you know a little.
+
+@cr-phd3
+| By the time you finish high school, you know a bit more.
+
+@cr-phd4
+| With a bachelor's degree, you gain a specialty.
+
+@cr-phd5
+| A master's degree deepens that specialty.
+
+@cr-phd6
+| Reading research papers takes you to the edge of human knowledge.
+
+@cr-phd7
+| Once you're at the boundary, you focus.
+
+[@cr-phd8]{scale-by="1.5"}
+| You push at the boundary for a few years.
+
+[@cr-phd9]{scale-by="1.5"}
+| Until one day, the boundary gives way.
+
+[@cr-phd10]{scale-by="1.5"}
+| And, that dent you've made is called a Ph.D.
+
+[@cr-phd11]{scale-by="1.4"}
+| Of course, the world looks different to you now.
+
+@cr-phd12
+| So, don't forget the bigger picture.
+
+:::{#cr-phd1}
+![](images/phd_001.jpg)
+:::
+
+:::{#cr-phd2}
+![](images/phd_002.jpg)
+:::
+
+:::{#cr-phd3}
+![](images/phd_003.jpg)
+:::
+
+:::{#cr-phd4}
+![](images/phd_004.jpg)
+:::
+
+:::{#cr-phd5}
+![](images/phd_005.jpg)
+:::
+
+:::{#cr-phd6}
+![](images/phd_006.jpg)
+:::
+
+:::{#cr-phd7}
+![](images/phd_007.jpg)
+:::
+
+:::{#cr-phd8}
+![](images/phd_008.jpg)
+:::
+
+:::{#cr-phd9}
+![](images/phd_009.jpg)
+:::
+
+:::{#cr-phd10}
+![](images/phd_010.jpg)
+:::
+
+:::{#cr-phd11}
+![](images/phd_011.jpg)
+:::
+
+:::{#cr-phd12}
+![](images/phd_012.jpg)
+:::
+
+\
+\
+:::
+
+
+\
+
+Orignal Work: <a href="https://matt.might.net/articles/phd-school-in-pictures/" target="_blank">https://matt.might.net/articles/phd-school-in-pictures/</a>
+
+License: <a href="https://creativecommons.org/licenses/by-nc/2.5/" target="_blank">CC BY-NC 2.5</a>
+
+Cloner: <a href="https://www.gastonsanchez.com" target="_blank">Gaston Sanchez</a>
+
+Code: <a href="https://github.com/gastonstat" target="_blank">https://github.com/gastonstat/closeread-guide-to-phd</a>
