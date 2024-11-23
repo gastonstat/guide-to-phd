@@ -112,4 +112,4 @@ License: <a href="https://creativecommons.org/licenses/by-nc/2.5/" target="_blan
 
 Cloner: <a href="https://www.gastonsanchez.com" target="_blank">Gaston Sanchez</a>
 
-Code: <a href="https://github.com/gastonstat" target="_blank">https://github.com/gastonstat/closeread-guide-to-phd</a>
+Code: <a href="https://github.com/gastonstat/guide-to-phd" target="_blank">https://github.com/gastonstat/guide-to-phd</a>
