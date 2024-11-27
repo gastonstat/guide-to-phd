@@ -16,5 +16,8 @@ The scrollytelling story is available at:
 
 ## Acknowledgements
 
-Special thanks to <a href="https://github.com/andrewpbray" target="_blank">Andrew Bray</a> (and co-developers) for introducing me to their amazing tool `closeread`.
+Special thanks to [Andrew Bray](https://github.com/andrewpbray) for introducing 
+me to `closeread`, and also to his co-developers 
+[James Goldie](https://github.com/jimjam-slam) and 
+[Henrik Bengtsson](https://github.com/HenrikBengtsson) for this wonderful tool.
 
