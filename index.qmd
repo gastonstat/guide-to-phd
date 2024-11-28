@@ -15,41 +15,30 @@ embed-resources: true
 
 :::{.cr-section}
 
-@cr-phd1
-| Imagine a circle that contains all of human knowledge.
+Imagine a circle that contains all of human knowledge. @cr-phd1
 
-@cr-phd2
-| By the time you finish elementary school, you know a little.
+By the time you finish elementary school, you know a little. @cr-phd2
 
-@cr-phd3
-| By the time you finish high school, you know a bit more.
+By the time you finish high school, you know a bit more. @cr-phd3
 
-@cr-phd4
-| With a bachelor's degree, you gain a specialty.
+With a bachelor's degree, you gain a specialty. @cr-phd4
 
-@cr-phd5
-| A master's degree deepens that specialty.
+A master's degree deepens that specialty. @cr-phd5
 
-@cr-phd6
-| Reading research papers takes you to the edge of human knowledge.
+Reading research papers takes you to the edge of human knowledge. @cr-phd6
 
-@cr-phd7
-| Once you're at the boundary, you focus.
+Once you're at the boundary, you focus. @cr-phd7
 
-[@cr-phd8]{scale-by="1.5"}
-| You push at the boundary for a few years.
+You push at the boundary for a few years. [@cr-phd8]{scale-by="1.5"}
 
-[@cr-phd9]{scale-by="1.5"}
-| Until one day, the boundary gives way.
+Until one day, the boundary gives way. [@cr-phd9]{scale-by="1.5"}
 
-[@cr-phd10]{scale-by="1.5"}
-| And, that dent you've made is called a Ph.D.
+And, that dent you've made is called a Ph.D. [@cr-phd10]{scale-by="1.5"}
 
-[@cr-phd11]{scale-by="1.4"}
-| Of course, the world looks different to you now.
+Of course, the world looks different to you now. [@cr-phd11]{scale-by="1.4"}
 
-@cr-phd12
-| So, don't forget the bigger picture.
+So, don't forget the bigger picture. @cr-phd12
+
 
 :::{#cr-phd1}
 ![](images/phd_001.jpg)
